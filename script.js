@@ -1,3 +1,4 @@
+//Cambios
 // Función para convertir decimal (0-255) a HEX de 2 dígitos
 function toHex(value) {
   let hex = Number(value).toString(16);
